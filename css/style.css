@@ -154,6 +154,12 @@ h4{
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
+.about-text h4{
+	color: #B8860B;
+	font-size: 45px;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
 .about-text h5{
 	color: white;
 	letter-spacing: 2px;
@@ -166,7 +172,7 @@ h4{
 	letter-spacing: 1px;
 	line-height: 28px;
 	font-size: 18px;
-	margin-bottom: 45px;
+	margin-bottom: 1px;
 }
 button{
 	background-color:#4682b4;
